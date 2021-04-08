@@ -13,6 +13,6 @@ The places that need updating are:
 * Add the API_KEY and MAP_ID in the `<script>` tag for the Maps API in the `index.html` file
 * Add in the MAP_ID in the `script.js` file
 
-# Ny Map Screen =) 
+# My Map Screen =) 
 
-https://github.com/reinaldoacdc/MyMaps/blob/master/vila_maria_world.jpeg
+![alt text](https://github.com/reinaldoacdc/MyMaps/blob/master/vila_maria_world.jpeg)
